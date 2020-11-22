@@ -1,4 +1,5 @@
 # SpiffingJS
+*Brits, take control of the web. Spiffing allows you to write your CSS and stylesheets  in conformance to proper British English (also known as correct English) grammar and spelling regulations.*<br><br>
 An implementation of the Spiffing CSS preprecessor in JavaScript (Original: https://github.com/nderjung/Spiffing)
 
 ### Rules
