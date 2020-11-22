@@ -2,7 +2,7 @@
 An implementation of the Spiffing CSS preprecessor in JavaScript (Original: https://github.com/nderjung/Spiffing)
 
 ### Rules
-Here is what SpiffingJS will convert:
+Here is what SpiffingJS will convert:<br>
 colour -> color<br>
 grey -> gray<br>
 !please -> !important<br>
@@ -13,6 +13,7 @@ capitalise -> capitalize
 
 ## Speed
 SpiffingJS is blazing fast. It can process over 39000+ lines of code, in just 4 miliseconds.
+![Speed of spiffingjs](https://raw.githubusercontent.com/ProgramistaZpolski/Spiffing/master/Screenshot%20from%202020-11-22%2014-00-07.png)
 
 ### Examples
 You can convert your beautiful Spiffing stylesheet into a CSS Stylesheet using the spiffingProcessStylesheet("codeForTheStylesheet"); command.
