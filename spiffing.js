@@ -1,7 +1,5 @@
 "use strict";
-/* 
-    An implementation of spiffing (https://github.com/nderjung/Spiffing) in JavaScript
-*/
+// An implementation of spiffing (https://github.com/nderjung/Spiffing) in JavaScript. Licesned under the MIT license by ProgramistaZpolski
 
 function spiffingReplaceAll(str, find, replace) {
     return str.replace(new RegExp(find, 'g'), replace);
